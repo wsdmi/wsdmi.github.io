@@ -1,12 +1,9 @@
 ---
-# Feel free to add content and custom Front Matter to this file.
-# To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
-
 layout: page
 title: Home
 ---
 
-## Hi there 👋
+## Hi there
 
 The education of our students is our primary focus. 
 Our students are successful because parents, staff, and the community share high expectations for quality instruction and successful student learning. 
@@ -27,3 +24,15 @@ Our teachers are dedicated and committed to ensuring your child's academic succe
 Please visit the link to our YouTube video
 
 [https://www.youtube.com/watch?v=xWSi5RA1Wh0](https://www.youtube.com/watch?v=xWSi5RA1Wh0)
+
+## Editing
+
+You can edit our website on our GitHub page if you so choose. In fact, any edits are acpected! Just click the edit below, fork it, make a edit, and do a pull request!
+
+## Building
+
+We built this website with Jekyll, a static site generator! In fact, GitHub has a way to host your own! It's called "GitHub Pages" and it's free to use on any account! For starters, we use Markdown to write pages better. It helps us save time on all of our repos.
+
+## Suggest
+
+Want to suggest an issue? Click the button for issues, and then give us a formal and strightfoward explanation on the issue. Please be kind to others, and we will do your edit for you!

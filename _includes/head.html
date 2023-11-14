@@ -20,3 +20,11 @@ updateTheme()
 // Update theme when the preferred scheme changes
 window.matchMedia('(prefers-color-scheme: dark)').addEventListener('change', updateTheme)
 </script>
+<style>
+.anchorjs-link {
+  transition: all .25s linear;
+}
+*:hover > .anchorjs-link {
+  transition: all .25s linear;
+}
+</style>
