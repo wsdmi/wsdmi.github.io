@@ -1,0 +1,4 @@
+<div class="{{ include.class | default: 'warning' | prepend: 'alert alert-' }} d-flex align-items-center container" role="alert">
+<i class="bi bi-{{ include.icon }} flex-shrink-0 me-2"></i>
+<div>{{ include.message }}</div>
+</div>

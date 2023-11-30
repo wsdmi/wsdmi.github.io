@@ -3,6 +3,8 @@ layout: page
 title: Home
 ---
 
+{% include warning.html class="primary" message="You cannot make changes to this page. If you are wanting to do so, please check in with your administrator for permissions!" icon="info-circle-fill" %}
+
 ## Hi there
 
 The education of our students is our primary focus. 
